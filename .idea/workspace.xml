@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9ccc805-29f1-4818-8210-05efb72d38e6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/arrays/CyclicRotation.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/arrays/OddOccurencesInArray.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -25,11 +25,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CyclicRotation.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CyclicRotation.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/arrays/CyclicRotation.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="118">
               <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OddOccurencesInArray.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/arrays/OddOccurencesInArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-164">
+              <caret line="25" column="30" lean-forward="false" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -65,6 +75,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/iterations/BinaryGap.java" />
         <option value="$PROJECT_DIR$/src/arrays/CyclicRotation.java" />
+        <option value="$PROJECT_DIR$/src/arrays/OddOccurencesInArray.java" />
       </list>
     </option>
   </component>
@@ -270,12 +281,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525261930112</updated>
-      <workItem from="1525261931781" duration="4304000" />
+      <workItem from="1525261931781" duration="6002000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4304000" />
+    <option name="totallyTimeSpent" value="6002000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1233" height="778" extended-state="6" />
@@ -333,6 +344,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="118">
           <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arrays/OddOccurencesInArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-164">
+          <caret line="25" column="30" lean-forward="false" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
           <folding />
         </state>
       </provider>
