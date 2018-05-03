@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9ccc805-29f1-4818-8210-05efb72d38e6" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/sieveOfEratosthenes/CountNonDivisible.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/sieveOfEratosthenes/CountSemiPrimes.java" afterPath="$PROJECT_DIR$/src/sieveOfEratosthenes/CountSemiPrimes.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -89,11 +89,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CountSemiPrimes.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CountSemiPrimes.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sieveOfEratosthenes/CountSemiPrimes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="64" column="0" lean-forward="true" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+            <state relative-caret-position="124">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="62" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CountNonDivisible.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sieveOfEratosthenes/CountNonDivisible.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="155">
+              <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -146,6 +156,7 @@
         <option value="$PROJECT_DIR$/src/sieveOfEratosthenes/Factorization.java" />
         <option value="$PROJECT_DIR$/src/sieveOfEratosthenes/Factorization2.java" />
         <option value="$PROJECT_DIR$/src/sieveOfEratosthenes/CountSemiPrimes.java" />
+        <option value="$PROJECT_DIR$/src/sieveOfEratosthenes/CountNonDivisible.java" />
       </list>
     </option>
   </component>
@@ -411,12 +422,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525261930112</updated>
-      <workItem from="1525261931781" duration="15703000" />
+      <workItem from="1525261931781" duration="16401000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15703000" />
+    <option name="totallyTimeSpent" value="16401000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1602" height="1028" extended-state="6" />
@@ -532,8 +543,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sieveOfEratosthenes/CountSemiPrimes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="64" column="0" lean-forward="true" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+        <state relative-caret-position="124">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="62" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sieveOfEratosthenes/CountNonDivisible.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
           <folding />
         </state>
       </provider>
