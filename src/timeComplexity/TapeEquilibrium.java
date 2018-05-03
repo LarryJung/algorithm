@@ -1,5 +1,7 @@
 package timeComplexity;
 
+import java.util.Vector;
+
 public class TapeEquilibrium {
 
     public int solution(int[] A) {
@@ -20,5 +22,6 @@ public class TapeEquilibrium {
         }
         return min;
     }
+
 
 }
