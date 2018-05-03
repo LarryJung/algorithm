@@ -2,6 +2,9 @@ package sieveOfEratosthenes;
 
 public class CountNonDivisible {
 
+    // 100% score
+    // https://github.com/charles-wangkai/codility/blob/master/CountNonDivisible.java
+
     // 55/100/0
     // O(N ** 2)
     public int[] solution(int[] A) {
