@@ -5,6 +5,8 @@ import java.util.Arrays;
 public class OddOccurencesInArray {
 
     // 66/80/50 solution 왜 정답이 아닌지 잘 모르겠다.
+
+    // 18.05.03 add / 말 그대로 odd occurrences number를 찾아야 함. 1회 뿐만 아니라.
     public int solution1(int[] A) {
 
         if (A.length == 1) return A[0];
