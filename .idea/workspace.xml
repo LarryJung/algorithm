@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9ccc805-29f1-4818-8210-05efb72d38e6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/countingElements/PermCheck.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/countingElements/MissingInteger.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,16 +20,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="155">
               <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OddOccurencesInArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/arrays/OddOccurencesInArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="6" column="41" lean-forward="false" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -111,11 +101,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PermCheck.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PermCheck.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/countingElements/PermCheck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+            <state relative-caret-position="372">
+              <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MissingInteger.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/countingElements/MissingInteger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="62">
+              <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -161,6 +161,7 @@
         <option value="$PROJECT_DIR$/src/sieveOfEratosthenes/CountNonDivisible.java" />
         <option value="$PROJECT_DIR$/src/countingElements/FrogRiverOne.java" />
         <option value="$PROJECT_DIR$/src/countingElements/PermCheck.java" />
+        <option value="$PROJECT_DIR$/src/countingElements/MissingInteger.java" />
       </list>
     </option>
   </component>
@@ -426,12 +427,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525261930112</updated>
-      <workItem from="1525261931781" duration="19590000" />
+      <workItem from="1525261931781" duration="20428000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19590000" />
+    <option name="totallyTimeSpent" value="20428000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1602" height="1028" extended-state="6" />
@@ -573,8 +574,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/countingElements/PermCheck.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        <state relative-caret-position="372">
+          <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/countingElements/MissingInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
           <folding />
         </state>
       </provider>
