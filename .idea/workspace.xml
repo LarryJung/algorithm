@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9ccc805-29f1-4818-8210-05efb72d38e6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/prefixSums/PassingCars.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/prefixSums/MinAvgTwoSlice.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -45,24 +45,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PassingCars.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PassingCars.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/prefixSums/PassingCars.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="713">
-              <caret line="23" column="5" lean-forward="false" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+            <state relative-caret-position="248">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Factorization2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sieveOfEratosthenes/Factorization2.java">
+      <file leaf-file-name="MinAvgTwoSlice.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/prefixSums/MinAvgTwoSlice.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="6" column="14" lean-forward="false" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="1023">
+              <caret line="33" column="25" lean-forward="false" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -163,6 +161,7 @@
         <option value="$PROJECT_DIR$/src/countingElements/MaxCounters.java" />
         <option value="$PROJECT_DIR$/src/prefixSums/CountDiv.java" />
         <option value="$PROJECT_DIR$/src/prefixSums/PassingCars.java" />
+        <option value="$PROJECT_DIR$/src/prefixSums/MinAvgTwoSlice.java" />
       </list>
     </option>
   </component>
@@ -426,12 +425,12 @@
       <workItem from="1525261931781" duration="21164000" />
       <workItem from="1525654623223" duration="905000" />
       <workItem from="1525746329946" duration="795000" />
-      <workItem from="1525809482809" duration="1370000" />
+      <workItem from="1525809482809" duration="2080000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24234000" />
+    <option name="totallyTimeSpent" value="24944000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1633" height="1028" extended-state="0" />
@@ -857,8 +856,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/prefixSums/PassingCars.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="713">
-          <caret line="23" column="5" lean-forward="false" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        <state relative-caret-position="248">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prefixSums/MinAvgTwoSlice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1023">
+          <caret line="33" column="25" lean-forward="false" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
           <folding />
         </state>
       </provider>
