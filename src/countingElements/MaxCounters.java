@@ -26,7 +26,6 @@ public class MaxCounters {
         for(int i = 0 ; i < counters.length; i++) {
             counters[i] = Math.max(counters[i], lastMax);
         }
-
         return counters;
     }
 
