@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9ccc805-29f1-4818-8210-05efb72d38e6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/stacksAndQueues/Nesting.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/stacksAndQueues/Brackets.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -65,22 +65,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Nesting.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Nesting.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/stacksAndQueues/Nesting.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="263">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="108">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CountNonDivisible.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sieveOfEratosthenes/CountNonDivisible.java">
+      <file leaf-file-name="Brackets.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/stacksAndQueues/Brackets.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="31">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="208">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -163,6 +165,7 @@
         <option value="$PROJECT_DIR$/src/prefixSums/PassingCars.java" />
         <option value="$PROJECT_DIR$/src/prefixSums/MinAvgTwoSlice.java" />
         <option value="$PROJECT_DIR$/src/stacksAndQueues/Nesting.java" />
+        <option value="$PROJECT_DIR$/src/stacksAndQueues/Brackets.java" />
       </list>
     </option>
   </component>
@@ -206,6 +209,12 @@
               <item name="codility" type="b2602c69:ProjectViewProjectNode" />
               <item name="codility" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codility" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codility" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="stacksAndQueues" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -421,12 +430,12 @@
       <workItem from="1525654623223" duration="905000" />
       <workItem from="1525746329946" duration="795000" />
       <workItem from="1525809482809" duration="2706000" />
-      <workItem from="1525830238267" duration="732000" />
+      <workItem from="1525830238267" duration="1913000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26302000" />
+    <option name="totallyTimeSpent" value="27483000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1633" height="1028" extended-state="0" />
@@ -472,14 +481,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/countingElements/PermCheck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="12" column="32" lean-forward="false" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/countingElements/MissingInteger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="651">
@@ -864,9 +865,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/stacksAndQueues/Nesting.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="108">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stacksAndQueues/Brackets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
